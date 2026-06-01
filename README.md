@@ -74,3 +74,51 @@ World Reinsurance Platform
 ---
 
 Machine Learning • Deep Learning • NLP • Data Science • InsurTech
+
+
+## Machine Learning & Deep Learning Projects
+
+### Computer Vision
+- CNN Convolutional Neural Network
+- CNN Image Classification (NIH Dataset)
+- Transfer Learning VGG16 Malaria Project
+
+### Natural Language Processing (NLP)
+- Restaurant Review Sentiment Classifier
+- NLP Classification & Sentiment Analysis
+
+### Regression Projects
+- House Price Prediction Using Machine Learning
+- Ankara Rent
+- - Ankara Rent Price Prediction
+- Regression Final Project
+
+### Classification Projects
+
+- Customer Churn Prediction ANN Project
+- ANN Customer Churn Prediction Project
+- Titanic Classification Project
+
+### Optimization & Feature Engineering
+
+- Hyperparameter Tuning Project
+- Feature Selection Project
+
+### Data Science Projects
+
+- Special Data Science Project
+- Final Control & Submission Preparation
+
+---
+
+## Kaggle Portfolio
+
+https://www.kaggle.com/hakankahraman571
+
+## GitHub Portfolio
+
+https://github.com/HERO571HK
+
+## Hugging Face Portfolio
+
+https://huggingface.co/KhanHERO
