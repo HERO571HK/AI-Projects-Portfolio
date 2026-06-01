@@ -1,34 +1,76 @@
 # AI Projects Portfolio
 
-Welcome to my AI and Machine Learning portfolio.
+## About Me
 
-## Areas of Study
+Hakan Kahraman
 
+Founder of Platformist
+
+Interests:
+
+- Artificial Intelligence
 - Machine Learning
 - Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
 - Data Science
-- InsurTech Projects
+- Computer Vision
+- Natural Language Processing (NLP)
+- InsurTech Technologies
 
-## Current Projects
+---
 
-- WIP (World Insurance Platform)
-- WRP (World Reinsurance Platform)
-- Kaggle Machine Learning Projects
-- AI Research and Experiments
+## Kaggle Projects
 
-## Technologies
+This repository contains machine learning and data science projects developed as part of my Kaggle studies.
 
-- Python
-- Scikit-Learn
-- TensorFlow
-- Pandas
-- NumPy
-- Streamlit
-- Hugging Face
+### Completed Projects
 
-## Author
+1. House Price Prediction
+2. Titanic Survival Prediction
+3. Computer Vision Project
+4. NLP Sentiment Analysis
+5. Time Series Forecasting
+6. Movie Recommendation System
+7. Clustering Project
+8. House Price Prediction with XGBoost
+9. Diabetes Classification
+10. ANN Customer Churn
+11. CNN Malaria Classification
+12. Transfer Learning VGG16
+13. Data Visualization
+14. Spam Email Detection
+15. K-Means Clustering
+16. PCA Project
+17. SVM Classification
+18. Decision Tree
+19. Random Forest
+20. KNN Classification
 
-Hakan Kahraman  
-Founder of platformist
+---
+
+## Platforms
+
+### Kaggle
+
+https://www.kaggle.com/
+
+### GitHub
+
+https://github.com/HERO571HK
+
+### Hugging Face
+
+https://huggingface.co/KhanHERO
+
+---
+
+## Current Professional Projects
+
+### WIP
+World Insurance Platform
+
+### WRP
+World Reinsurance Platform
+
+---
+
+Machine Learning • Deep Learning • NLP • Data Science • InsurTech
